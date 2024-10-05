@@ -1,1 +1,1 @@
-# coding-project-template
+# create_event_planner_landing_page
